@@ -60,7 +60,7 @@ button{
   border-bottom:5px solid #087E8B;
   height:90%;
   width:90%;
-  background:black;
+  background:rgba(0,0,0,.7);
   color:#BFD7EA;
   outline:none;
 }
